@@ -1,8 +1,13 @@
+FORK from https://github.com/lightful/xfce-hkmon.git
 ## Hacker's Monitor for XFCE
 
 ### Screenshot and doc
 
 See the project [web page](http://lightful.github.io/xfce-hkmon/).
+
+### Requirement
+1. need gcc or clang installed
+2. make sure the XFCE Generic Monitor Applet installed(the package is called xfce4-genmon-plugin)
 
 ### Installation
 
